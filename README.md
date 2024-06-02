@@ -2,6 +2,8 @@
 # Tiktok Autocomplete
 ##  Analisis Perbandingan Algoritma Brute Force dengan Algoritma Knuth-Morris-Pratt dalam Penentuan Rekomendasi Pencarian Music pada Website Tiktok
 
+#### NOTE: File Algoritma KMP dan Brute Force tersimpan dalam folder (./backend/app.py)
+
 Tugas Besar Mata Kuliah Strategi Algoritma
 
 Anggota Kelompok:
